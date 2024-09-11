@@ -31,7 +31,18 @@ Constantes
 Strings (textos): "" '' ``
 Number (números): 1 1.5 
 Function (função)
+Boolean: true, false
 
 ## Operadores
 
 Operador de atribuição de valor =
+Operador de contatenação +
+    
+   **## Estruturas de dados**
+### Arrays:
+Uma lista que contém qualquuer tipo de dado
+
+### Objetos:
+Atributos e métodos
+Criação e manipulação de objetos
+Acesso a propriedades de objetos
