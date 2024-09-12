@@ -35,9 +35,10 @@ Boolean: true, false
 
 ## Operadores
 
-Operador de atribuição de valor =
-Operador de contatenação +
-    
+- Operador de atribuição de valor =
+- Operador de contatenação +
+- Operadores de comparação == != < > <= >=
+
    **## Estruturas de dados**
 ### Arrays:
 Uma lista que contém qualquuer tipo de dado
@@ -55,6 +56,7 @@ Acesso a propriedades de objetos
 # Condicionais
 
 - switch
+- if/else
 
 ## Módulos em Node.js:
 
