@@ -96,7 +96,7 @@ const deletarMetas = async () => {
     }
 
     itensADeletar.forEach((item) => {
-        metas = metas.filter(() => {
+        metas = metas.filter((meta) => {
             return meta.value != item
 
         })
