@@ -43,7 +43,7 @@ Boolean: true, false
    **## Estruturas de dados**
 ### Arrays:
 Uma lista que contém qualquuer tipo de dado
-Métodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)
+Métodos de array: push, [find, forEach, filter, map] : HOF (Higher Order Functions)
 
 ### Objetos:
 Atributos e métodos
